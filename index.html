@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <title>We Bare Bears Boba</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="styles.css" type="text/css">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <link href="https://fonts.googleapis.com/css2?family=Lilita+One&family=Roboto:wght@300&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+  <div class="header">
+    <div class="navbar" id="topnav">
+      <!-- <img class="logo" src="resources/logo.png"> -->
+      <ul>
+        <li><a href="#mission">Mission</a></li>
+        <li><a href="#products">Products</a></li>
+        <li><img class="logo" src="resources/logo.png"></li>
+        <li><a href="#team">Our Team</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li> <a href="javascript:void(0);" class="icon2" onclick="myFunction()">
+            <i class="fa fa-bars"></i>
+          </a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="main">
+    <div class="banner">
+      <div class="content">
+        <h1>Welcome to We Bare Bears Boba</h1>
+        <h4>Find your perfect pairing!</h4>
+      </div>
+    </div>
+
+    <div id="mission">
+      <div class="content">
+        <h2>Our Mission</h2>
+        <div class="about-us">
+          <div class="slide" id="slide-1">
+            <img src="resources/about/foodies.jpg">
+            <figcaption>The WBBB family is committed to bringing you the cutest and tastiest snacks to you!</figcaption>
+          </div>
+          <div class="slide" id="slide-2">
+            <img src="resources/about/product-pic.jpg">
+            <figcaption>We are a trendy and outgoing family of foodies who are always in the search for the best
+              desserts.</figcaption>
+          </div>
+          <div class="slide" id="slide-3">
+            <img src="resources/about/product-pic2.jpg">
+            <figcaption>WBBB continuously strives to bring quality and consistency to our products.
+            </figcaption>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="products">
+      <div class="products-banner">
+        <div class="content">
+          <h2>Our Products</h2>
+        </div>
+      </div>
+    </div>
+
+    <div id="flavours">
+      <div class="content">
+        <h2>Try Our New Flavours</h2>
+        <div class="product-flavours">
+          <img src="resources/products/flavours.png">
+        </div>
+      </div>
+    </div>
+
+    <div id="pairings">
+      <div class="content">
+        <h2>Popular Pairings</h2>
+        <div class="products">
+          <div class="product" id="grizz">
+            <img src="resources/products/grizz-boba.png">
+            <img src="resources/products/grizz-crepe.png">
+            <figcaption>The Grizzly Combo!</figcaption>
+          </div>
+          <div class="product" id="panda">
+            <img src="resources/products/panda-boba.jpg">
+            <img src="resources/products/panda-crepe.png">
+            <figcaption>The Pan-Pan Combo!</figcaption>
+          </div>
+          <div class="product" id="ice-bear">
+            <img src="resources/products/ice-bear-boba.jpg">
+            <img src="resources/products/ice-bear-crepe.png">
+            <figcaption>The Ice Bear Combo!</figcaption>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="team">
+      <h2>Meet Our Team</h2>
+      <div class="members">
+        <div class="member">
+          <img src="resources/team/grizz-pfp.jpg">
+          <h3>Grizz</h3>
+          <figcaption><strong>General Manager and Professional Food Critic</strong></figcaption>
+        </div>
+        <div class="member">
+          <img src="resources/team/panda-pfp.jpg">
+          <h3>Panda</h3>
+          <figcaption><strong>Brand and Content Manager</strong></figcaption>
+        </div>
+        <div class="member">
+          <img src="resources/team/ice-bear-pfp.jpg">
+          <h3>Ice Bear</h3>
+          <figcaption><strong>Lead Barista and Pastry Chef</strong></figcaption>
+        </div>
+        <div class="member">
+          <img src="resources/team/chloe-pfp.png">
+          <h3>Chloe Park</h3>
+          <figcaption><strong>Assistant Pastry Chef</strong></figcaption>
+        </div>
+      </div>
+    </div>
+
+    <div id="contact">
+      <h2>Contact Us!</h2>
+      <div class="contact">
+
+      </div>
+    </div>
+
+    <div class="footer">
+      <h5>&copy We Bare Bears Boba</h5>
+    </div>
+  </div>
+
+  <script>
+    function myFunction() {
+      var x = document.getElementById("topnav");
+      if (x.className === "navbar") {
+        x.className += " responsive";
+      } else {
+        x.className = "navbar";
+      }
+    }
+  </script>
+</body>
+
+</html>
