@@ -3,3 +3,15 @@ This is a mock-up website for the We Bare Bears Boba Cafe :teddy_bear:! A fun pr
 Try resizing the browser/view in different screen sizes (check out my navbar :cherry_blossom:).
 
 ![MainPage](https://github.com/Li-Jessica/WBB-Boba-Cafe/blob/f28271f3bc33f7ecea05d90a65157d853c3890b5/product-photos/main-banner.png)
+
+## 'Missions' Page (Mobile vs Desktop)
+![missions-mobile](https://github.com/Li-Jessica/WBB-Boba-Cafe/blob/de83b13ab98d6d239ca4ecc0ae3e9aff9834077c/product-photos/mobile-missions-view.png)
+![missions-desktop](https://github.com/Li-Jessica/WBB-Boba-Cafe/blob/de83b13ab98d6d239ca4ecc0ae3e9aff9834077c/product-photos/desktop-missions-view.png)
+
+## Peep that hamburger :hamburger: menu for mobile views! 
+![hamburger-menu](https://github.com/Li-Jessica/WBB-Boba-Cafe/blob/de83b13ab98d6d239ca4ecc0ae3e9aff9834077c/product-photos/mobile-team-view.png)
+![hamburger-menu-expanded](https://github.com/Li-Jessica/WBB-Boba-Cafe/blob/de83b13ab98d6d239ca4ecc0ae3e9aff9834077c/product-photos/mobile-hamburger-menu.png)
+
+## 'Menu' Page (Desktop vs Mobile)
+![menu-desktop](https://github.com/Li-Jessica/WBB-Boba-Cafe/blob/de83b13ab98d6d239ca4ecc0ae3e9aff9834077c/product-photos/desktop-products-view.png)
+![menu-mobile](https://github.com/Li-Jessica/WBB-Boba-Cafe/blob/de83b13ab98d6d239ca4ecc0ae3e9aff9834077c/product-photos/mobile-products-view.png)
