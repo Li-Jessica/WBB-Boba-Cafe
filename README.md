@@ -12,9 +12,9 @@ Try resizing the browser/view in different screen sizes (check out my navbar :ch
 ![missions-desktop](https://github.com/Li-Jessica/WBB-Boba-Cafe/blob/de83b13ab98d6d239ca4ecc0ae3e9aff9834077c/product-photos/desktop-missions-view.png)
 
 ## Peep that :hamburger: menu for mobile views! 
-<img align="left" width="450" height="650" src=https://github.com/Li-Jessica/WBB-Boba-Cafe/blob/356e441a2246e0163a4c2341e06716227921e443/product-photos/mobile-team-menu.png>
-<p align="right">
-  <img width="450" height="650" src=https://github.com/Li-Jessica/WBB-Boba-Cafe/blob/356e441a2246e0163a4c2341e06716227921e443/product-photos/mobile-menu-expanded.png>
+<img align="left" width="400" height="600" src=https://github.com/Li-Jessica/WBB-Boba-Cafe/blob/356e441a2246e0163a4c2341e06716227921e443/product-photos/mobile-team-menu.png>
+<p align="center">
+  <img width="400" height="600" src=https://github.com/Li-Jessica/WBB-Boba-Cafe/blob/356e441a2246e0163a4c2341e06716227921e443/product-photos/mobile-menu-expanded.png>
 </p>
 
 ## 'Menu' Page (Desktop vs Mobile)
