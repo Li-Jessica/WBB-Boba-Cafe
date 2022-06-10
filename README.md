@@ -10,6 +10,7 @@ Try resizing the browser/view in different screen sizes (check out my navbar :ch
 
 ## Peep that :hamburger: menu for mobile views! 
 ![hamburger-menu](https://github.com/Li-Jessica/WBB-Boba-Cafe/blob/356e441a2246e0163a4c2341e06716227921e443/product-photos/mobile-team-menu.png)
+<img align="right" width="100" height="100" src=https://github.com/Li-Jessica/WBB-Boba-Cafe/blob/356e441a2246e0163a4c2341e06716227921e443/product-photos/mobile-team-menu.png>
 ![hamburger-menu-expanded](https://github.com/Li-Jessica/WBB-Boba-Cafe/blob/356e441a2246e0163a4c2341e06716227921e443/product-photos/mobile-menu-expanded.png)
 
 ## 'Menu' Page (Desktop vs Mobile)
