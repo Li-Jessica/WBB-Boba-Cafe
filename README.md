@@ -8,7 +8,7 @@ Try resizing the browser/view in different screen sizes (check out my navbar :ch
 ![missions-mobile](https://github.com/Li-Jessica/WBB-Boba-Cafe/blob/de83b13ab98d6d239ca4ecc0ae3e9aff9834077c/product-photos/mobile-missions-view.png)
 ![missions-desktop](https://github.com/Li-Jessica/WBB-Boba-Cafe/blob/de83b13ab98d6d239ca4ecc0ae3e9aff9834077c/product-photos/desktop-missions-view.png)
 
-## Peep that hamburger :hamburger: menu for mobile views! 
+## Peep that :hamburger: menu for mobile views! 
 ![hamburger-menu](https://github.com/Li-Jessica/WBB-Boba-Cafe/blob/de83b13ab98d6d239ca4ecc0ae3e9aff9834077c/product-photos/mobile-team-view.png)
 ![hamburger-menu-expanded](https://github.com/Li-Jessica/WBB-Boba-Cafe/blob/de83b13ab98d6d239ca4ecc0ae3e9aff9834077c/product-photos/mobile-hamburger-menu.png)
 
